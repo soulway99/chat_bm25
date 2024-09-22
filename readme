@@ -1,0 +1,7 @@
+
+########### 라이브러리 구성파일 생성 #############
+# pip freeze > requirements.txt
+
+############ 인스톨 ##########
+# pip install -r requirements.txt
+# 실행
